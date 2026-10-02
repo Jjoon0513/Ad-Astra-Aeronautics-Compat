@@ -1,0 +1,11 @@
+{
+  "dimension": "ad_astra:venus",
+  "priority": 10000,
+  "base_gravity": [
+    0.0,
+    -8.87,
+    0.0
+  ],
+  "base_pressure": 92.0,
+  "universal_drag": 0.09
+}
